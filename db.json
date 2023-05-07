@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Smartphone X",
+      "description": "The latest smartphone with advanced features and powerful performance.",
+      "price": 699.99,
+      "availability": "In Stock",
+      "technicalSpecifications": {
+        "processor": "Snapdragon 855",
+        "storageCapacity": "128GB",
+        "screenSize": "6.5 inches",
+        "cameraResolution": "12MP + 16MP",
+        "connectivityOptions": [
+          "Wi-Fi",
+          "Bluetooth",
+          "4G LTE"
+        ]
+      }
+    },
+    {
+      "id": "P002",
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones for immersive audio experience.",
+      "price": 129.99,
+      "availability": "In Stock",
+      "technicalSpecifications": {
+        "driverSize": "40mm",
+        "batteryLife": "20 hours",
+        "connectivity": "Bluetooth 5.0",
+        "noiseCancellation": true
+      }
+    },
+    {
+      "id": "P003",
+      "name": "Smart TV 4K",
+      "description": "Ultra HD Smart TV with stunning visuals and smart features.",
+      "price": 899.99,
+      "availability": "In Stock",
+      "technicalSpecifications": {
+        "screenSize": "55 inches",
+        "resolution": "4K UHD",
+        "refreshRate": "60Hz",
+        "smartFeatures": [
+          "Built-in Wi-Fi",
+          "Smart OS"
+        ],
+        "ports": [
+          "HDMI",
+          "USB",
+          "Ethernet"
+        ]
+      }
+    },
+    {
+      "id": "P004",
+      "name": "Laptop Pro",
+      "description": "Powerful laptop for professional use with exceptional performance.",
+      "price": 1499.99,
+      "availability": "Pre-Order",
+      "technicalSpecifications": {
+        "processor": "Intel Core i7",
+        "RAM": "16GB",
+        "storageCapacity": "512GB SSD",
+        "screenSize": "15.6 inches",
+        "graphicsCard": "NVIDIA GeForce RTX 3070",
+        "operatingSystem": "Windows 10 Pro"
+      }
+    },
+    {
+      "id": "P005",
+      "name": "Smart Speaker",
+      "description": "Voice-controlled smart speaker with built-in virtual assistant.",
+      "price": 79.99,
+      "availability": "In Stock",
+      "technicalSpecifications": {
+        "speakerPower": "20W",
+        "connectivity": [
+          "Wi-Fi",
+          "Bluetooth"
+        ],
+        "virtualAssistant": "Amazon Alexa",
+        "compatiblePlatforms": [
+          "iOS",
+          "Android"
+        ]
+      }
+    },
+    {
+      "id": "P007",
+      "name": "Wireless Headphones",
+      "description": "New High-quality wireless headphones for immersive audio experience.",
+      "price": 250.99,
+      "availability": "In Stock",
+      "technicalSpecifications": {
+        "driverSize": "40mm",
+        "batteryLife": "205 hours",
+        "connectivity": "Bluetooth 6.0",
+        "noiseCancellation": true
+      }
+    }
+  ]
+}

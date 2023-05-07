@@ -1,0 +1,16 @@
+{
+  "name": "mock-api",
+  "version": "1.0.0",
+  "description": "A simple REST API client for testing and interacting with the API json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve-json": "json-server --watch db.json --port 4000"
+  },
+  "keywords": [],
+  "author": "Chiedozie Ezidiegwu",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
